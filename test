@@ -1,7 +1,0 @@
-//This is a test .txt file
-
-
-if (2 > 1)
-{
-console.log("I am right.")
-}
